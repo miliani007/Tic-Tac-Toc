@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "tictactoc-simo",
+    "simo": "tictactoc-simo"
+  }
+}
